@@ -6,7 +6,7 @@ This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) fo
 Prerequisite
 -----
 
-Install [NodeJS Buildpack](https://github.com/heroku/heroku-buildpack-nodejs.git) using [Heroku Multi Buildpack](https://github.com/ddollar/heroku-buildpack-multi).
+Install [NodeJS Buildpack](https://github.com/heroku/heroku-buildpack-nodejs.git) using [Heroku Multi Buildpack](https://github.com/ddollar/heroku-buildpack-multi) as described [here](http://www.rawsrc.com/using-django-bower-on-heroku/).
 
 
 Usage

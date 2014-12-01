@@ -7,7 +7,8 @@ MANAGE_FILE=${MANAGE_FILE:-fakepath}
 
 puts-missing() {
     puts-warn "       $@ is not installed."
-    puts-warn "       Skipping: manage.py bower install."
+    puts-warn "       Skipping: bower install."
+    puts-warn "       Check http://www.rawsrc.com/using-django-bower-on-heroku/ for instructions."
 }
 
 bpwatch start bower-install
